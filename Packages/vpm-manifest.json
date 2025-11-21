@@ -32,6 +32,9 @@
     },
     "net.narazaka.vrchat.avatar-menu-creater-for-ma": {
       "version": "1.34.1"
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.9.6"
     }
   },
   "locked": {
@@ -103,6 +106,12 @@
       "dependencies": {
         "com.vrchat.avatars": ">=3.0.9",
         "nadena.dev.modular-avatar": ">=1.0.0 <2.0.0-a"
+      }
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.9.6",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.5.2 <3.10.X"
       }
     }
   }
