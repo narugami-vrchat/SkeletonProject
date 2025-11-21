@@ -36,31 +36,30 @@
   },
   "locked": {
     "com.vrchat.base": {
-      "version": "3.8.2",
+      "version": "3.9.1-beta.2",
       "dependencies": {}
     },
     "com.vrchat.avatars": {
-      "version": "3.8.2",
+      "version": "3.9.1-beta.2",
       "dependencies": {
-        "com.vrchat.base": "3.8.2"
+        "com.vrchat.base": "3.9.1-beta.2"
       }
     },
     "com.anatawa12.avatar-optimizer": {
-      "version": "1.9.0-beta.2",
+      "version": "1.9.0-beta.5",
       "dependencies": {
-        "com.vrchat.avatars": ">=3.7.0 <3.9.0",
-        "nadena.dev.ndmf": ">=1.8.0-alpha.3 <2.0.0"
+        "com.vrchat.avatars": ">=3.7.0 <3.10.0",
+        "nadena.dev.ndmf": ">=1.8.0 <2.0.0"
       }
     },
     "nadena.dev.modular-avatar": {
-      "version": "1.13.2",
+      "version": "1.15.0-rc.2",
       "dependencies": {
-        "com.vrchat.avatars": ">=3.7.4",
-        "nadena.dev.ndmf": ">=1.8.0 <2.0.0-a"
+        "nadena.dev.ndmf": ">=1.10.0-rc.2 <2.0.0-a"
       }
     },
     "com.vrcfury.vrcfury": {
-      "version": "1.1248.0",
+      "version": "1.1269.0",
       "dependencies": {}
     },
     "jp.lilxyzw.avatar-utils": {
@@ -68,7 +67,7 @@
       "dependencies": {}
     },
     "jp.lilxyzw.liltoon": {
-      "version": "2.1.8",
+      "version": "2.3.2",
       "dependencies": {}
     },
     "dev.jetees.memoryoptimizer": {
@@ -78,21 +77,21 @@
       }
     },
     "io.github.azukimochi.light-limit-changer": {
-      "version": "2.4.2",
+      "version": "2.8.0",
       "dependencies": {
         "com.vrchat.avatars": ">=3.7.0",
-        "nadena.dev.modular-avatar": "^1.12.0",
-        "nadena.dev.ndmf": "^1.8.3"
+        "nadena.dev.modular-avatar": "^1.14.0",
+        "nadena.dev.ndmf": "^1.9.0"
       }
     },
     "com.anatawa12.continuous-avatar-uploader": {
-      "version": "0.3.10-beta.5",
+      "version": "0.3.12-beta.1",
       "dependencies": {
-        "com.vrchat.avatars": ">=3.3.0-beta.1 <3.9.0"
+        "com.vrchat.avatars": ">=3.3.0-beta.1 <3.10.0"
       }
     },
     "nadena.dev.ndmf": {
-      "version": "1.8.3",
+      "version": "1.10.0-rc.2",
       "dependencies": {}
     },
     "com.vrchat.core.vpm-resolver": {
@@ -100,7 +99,7 @@
       "dependencies": {}
     },
     "net.narazaka.vrchat.avatar-menu-creater-for-ma": {
-      "version": "1.34.1",
+      "version": "1.36.0",
       "dependencies": {
         "com.vrchat.avatars": ">=3.0.9",
         "nadena.dev.modular-avatar": ">=1.0.0 <2.0.0-a"
