@@ -35,34 +35,37 @@
     },
     "vrchat.blackstartx.gesture-manager": {
       "version": "3.9.6"
+    },
+    "dev.limitex.avatar-compressor": {
+      "version": "0.8.0"
     }
   },
   "locked": {
     "com.vrchat.base": {
-      "version": "3.10.3-beta.1",
+      "version": "3.10.4",
       "dependencies": {}
     },
     "com.vrchat.avatars": {
-      "version": "3.10.3-beta.1",
+      "version": "3.10.4",
       "dependencies": {
-        "com.vrchat.base": "3.10.3-beta.1"
+        "com.vrchat.base": "3.10.4"
       }
     },
     "com.anatawa12.avatar-optimizer": {
-      "version": "1.9.8",
+      "version": "1.9.15",
       "dependencies": {
         "com.vrchat.avatars": ">=3.7.0 <3.11.0",
         "nadena.dev.ndmf": ">=1.8.0 <2.0.0"
       }
     },
     "nadena.dev.modular-avatar": {
-      "version": "1.17.0-beta.0",
+      "version": "1.18.0-alpha.1",
       "dependencies": {
         "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
       }
     },
     "com.vrcfury.vrcfury": {
-      "version": "1.1296.0",
+      "version": "1.1348.0",
       "dependencies": {}
     },
     "jp.lilxyzw.avatar-utils": {
@@ -70,7 +73,7 @@
       "dependencies": {}
     },
     "jp.lilxyzw.liltoon": {
-      "version": "2.3.2",
+      "version": "2.3.4",
       "dependencies": {}
     },
     "dev.jetees.memoryoptimizer": {
@@ -80,7 +83,7 @@
       }
     },
     "io.github.azukimochi.light-limit-changer": {
-      "version": "2.10.0",
+      "version": "2.12.1",
       "dependencies": {
         "com.vrchat.avatars": ">=3.7.0",
         "nadena.dev.modular-avatar": "^1.14.0",
@@ -94,7 +97,7 @@
       }
     },
     "nadena.dev.ndmf": {
-      "version": "1.11.0",
+      "version": "1.13.1",
       "dependencies": {}
     },
     "com.vrchat.core.vpm-resolver": {
@@ -112,6 +115,14 @@
       "version": "3.9.8",
       "dependencies": {
         "com.vrchat.avatars": ">=3.5.2 <3.11.X"
+      }
+    },
+    "dev.limitex.avatar-compressor": {
+      "version": "0.8.0",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.10.0",
+        "com.vrchat.base": ">=3.10.0",
+        "nadena.dev.ndmf": ">=1.10.0"
       }
     }
   }

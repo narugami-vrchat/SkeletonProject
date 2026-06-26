@@ -270,6 +270,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "dev.limitex.avatar-compressor": {
+      "version": "file:dev.limitex.avatar-compressor",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "io.github.azukimochi.light-limit-changer": {
       "version": "file:io.github.azukimochi.light-limit-changer",
       "depth": 0,
