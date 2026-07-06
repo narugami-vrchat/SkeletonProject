@@ -52,20 +52,20 @@
       }
     },
     "com.anatawa12.avatar-optimizer": {
-      "version": "1.9.15",
+      "version": "1.9.16-beta.2",
       "dependencies": {
         "com.vrchat.avatars": ">=3.7.0 <3.11.0",
         "nadena.dev.ndmf": ">=1.8.0 <2.0.0"
       }
     },
     "nadena.dev.modular-avatar": {
-      "version": "1.18.0-alpha.1",
+      "version": "1.18.0-beta.0",
       "dependencies": {
         "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
       }
     },
     "com.vrcfury.vrcfury": {
-      "version": "1.1348.0",
+      "version": "1.1348.1-beta.31",
       "dependencies": {}
     },
     "jp.lilxyzw.avatar-utils": {
@@ -83,7 +83,7 @@
       }
     },
     "io.github.azukimochi.light-limit-changer": {
-      "version": "2.12.1",
+      "version": "2.12.2",
       "dependencies": {
         "com.vrchat.avatars": ">=3.7.0",
         "nadena.dev.modular-avatar": "^1.14.0",
@@ -97,7 +97,7 @@
       }
     },
     "nadena.dev.ndmf": {
-      "version": "1.13.1",
+      "version": "1.14.0",
       "dependencies": {}
     },
     "com.vrchat.core.vpm-resolver": {
