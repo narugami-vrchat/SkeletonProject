@@ -18,9 +18,6 @@
     "jp.lilxyzw.liltoon": {
       "version": "1.10.3"
     },
-    "dev.jetees.memoryoptimizer": {
-      "version": "0.1.18"
-    },
     "io.github.azukimochi.light-limit-changer": {
       "version": "2.3.0"
     },
@@ -38,34 +35,37 @@
     },
     "dev.limitex.avatar-compressor": {
       "version": "0.8.0"
+    },
+    "d4rkpl4y3r.d4rkavataroptimizer": {
+      "version": "4.5.4"
     }
   },
   "locked": {
     "com.vrchat.base": {
-      "version": "3.10.4",
+      "version": "3.10.5-beta.2",
       "dependencies": {}
     },
     "com.vrchat.avatars": {
-      "version": "3.10.4",
+      "version": "3.10.5-beta.2",
       "dependencies": {
-        "com.vrchat.base": "3.10.4"
+        "com.vrchat.base": "3.10.5-beta.2"
       }
     },
     "com.anatawa12.avatar-optimizer": {
-      "version": "1.9.16-beta.2",
+      "version": "1.9.18-beta.3",
       "dependencies": {
         "com.vrchat.avatars": ">=3.7.0 <3.11.0",
         "nadena.dev.ndmf": ">=1.8.0 <2.0.0"
       }
     },
     "nadena.dev.modular-avatar": {
-      "version": "1.18.0-beta.0",
+      "version": "1.18.5",
       "dependencies": {
-        "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
+        "nadena.dev.ndmf": ">=1.14.7 <2.0.0-a"
       }
     },
     "com.vrcfury.vrcfury": {
-      "version": "1.1348.1-beta.31",
+      "version": "1.1426.0",
       "dependencies": {}
     },
     "jp.lilxyzw.avatar-utils": {
@@ -76,14 +76,8 @@
       "version": "2.3.4",
       "dependencies": {}
     },
-    "dev.jetees.memoryoptimizer": {
-      "version": "0.1.18",
-      "dependencies": {
-        "com.vrchat.avatars": "^3.5.1"
-      }
-    },
     "io.github.azukimochi.light-limit-changer": {
-      "version": "2.12.2",
+      "version": "2.13.0",
       "dependencies": {
         "com.vrchat.avatars": ">=3.7.0",
         "nadena.dev.modular-avatar": "^1.14.0",
@@ -97,7 +91,7 @@
       }
     },
     "nadena.dev.ndmf": {
-      "version": "1.14.0",
+      "version": "1.14.8",
       "dependencies": {}
     },
     "com.vrchat.core.vpm-resolver": {
@@ -105,24 +99,30 @@
       "dependencies": {}
     },
     "net.narazaka.vrchat.avatar-menu-creater-for-ma": {
-      "version": "1.38.2",
+      "version": "1.39.0-beta.1",
       "dependencies": {
         "com.vrchat.avatars": ">=3.0.9",
         "nadena.dev.modular-avatar": ">=1.0.0 <2.0.0-a"
       }
     },
     "vrchat.blackstartx.gesture-manager": {
-      "version": "3.9.8",
+      "version": "3.9.9",
       "dependencies": {
-        "com.vrchat.avatars": ">=3.5.2 <3.11.X"
+        "com.vrchat.avatars": ">=3.10.4 <3.11.X"
       }
     },
     "dev.limitex.avatar-compressor": {
-      "version": "0.8.0",
+      "version": "0.9.0",
       "dependencies": {
         "com.vrchat.avatars": ">=3.10.0",
         "com.vrchat.base": ">=3.10.0",
         "nadena.dev.ndmf": ">=1.10.0"
+      }
+    },
+    "d4rkpl4y3r.d4rkavataroptimizer": {
+      "version": "4.5.4",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.9.0 <4.0.0-a"
       }
     }
   }
