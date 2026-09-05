@@ -42,30 +42,30 @@
   },
   "locked": {
     "com.vrchat.base": {
-      "version": "3.10.5-beta.2",
+      "version": "3.10.5",
       "dependencies": {}
     },
     "com.vrchat.avatars": {
-      "version": "3.10.5-beta.2",
+      "version": "3.10.5",
       "dependencies": {
-        "com.vrchat.base": "3.10.5-beta.2"
+        "com.vrchat.base": "3.10.5"
       }
     },
     "com.anatawa12.avatar-optimizer": {
-      "version": "1.9.18-beta.3",
+      "version": "1.9.18",
       "dependencies": {
         "com.vrchat.avatars": ">=3.7.0 <3.11.0",
         "nadena.dev.ndmf": ">=1.8.0 <2.0.0"
       }
     },
     "nadena.dev.modular-avatar": {
-      "version": "1.18.5",
+      "version": "1.18.7",
       "dependencies": {
         "nadena.dev.ndmf": ">=1.14.7 <2.0.0-a"
       }
     },
     "com.vrcfury.vrcfury": {
-      "version": "1.1426.0",
+      "version": "1.1427.0",
       "dependencies": {}
     },
     "jp.lilxyzw.avatar-utils": {
@@ -99,7 +99,7 @@
       "dependencies": {}
     },
     "net.narazaka.vrchat.avatar-menu-creater-for-ma": {
-      "version": "1.39.0-beta.1",
+      "version": "1.38.6",
       "dependencies": {
         "com.vrchat.avatars": ">=3.0.9",
         "nadena.dev.modular-avatar": ">=1.0.0 <2.0.0-a"
